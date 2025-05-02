@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c7a0ce5f-9fb6-484a-a10b-cad2b7daf3bb" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/FinallyDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/HelloWorld.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/checkedExcp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/errorCatch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/expdemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/uncheckdException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/userDefinedExcp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FinallyDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HelloWorld.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IO/FileInputStream.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IO/iodemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Thread/BankAccount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Thread/Customer1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Thread/Customer2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Thread/DownloaderRunnable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Thread/EatThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Thread/HearingThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Thread/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Thread/PlayRunnable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Thread/Racer1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Thread/Racer2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Thread/RelayRace.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Thread/ThinkThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Thread/YouTube.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/checkedExcp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/errorCatch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/expdemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/uncheckdException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/userDefinedExcp.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2wXRrlijMnAw1piqHocVGEx2STT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/vault/GitHub/HelloWorld/refresher"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c7a0ce5f-9fb6-484a-a10b-cad2b7daf3bb" name="Changes" comment="" />
+      <created>1746186133639</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1746186133639</updated>
+    </task>
+    <servers />
+  </component>
+</project>
