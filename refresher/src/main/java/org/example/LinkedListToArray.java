@@ -13,7 +13,7 @@ public class LinkedListToArray {
         System.out.println("LinkedList content : " + ll);
         String[] ar = ll.toArray(new String[0]);
         System.out.println("Array1 content : " + Arrays.toString(ar));
-        
+
 
 
     }
